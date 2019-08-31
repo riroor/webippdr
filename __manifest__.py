@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 {
-    'name': 'Website IPPDR',
-    'version': '12.0.1.0',
+    'name': 'Stock & Unit',
+    'version': '13.0.1.0',
     'category': '# TODO',
     'author': 'Ricardo Rodriguez',
     'license': 'AGPL-3',
-    'website': 'http://codegiday.com',
+    'website': 'http://ippdr.com',
     'depends': [
         'website_sale',
         'sale_management',
