@@ -4,7 +4,7 @@
     'name': 'Website IPPDR',
     'version': '12.0.1.0',
     'category': '# TODO',
-    'author': 'Vo Minh Bao Hieu',
+    'author': 'Ricardo Rodriguez',
     'license': 'AGPL-3',
     'website': 'http://codegiday.com',
     'depends': [
